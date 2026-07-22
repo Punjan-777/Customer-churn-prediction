@@ -1,4 +1,5 @@
-
+import sys
+sys.path.insert(0, '/mount/src/customer-churn-prediction/project 3')
 import streamlit as st
 import pandas as pd
 import joblib
